@@ -24,6 +24,10 @@ prenom=input("donner prenom")
 print("code:",code)
 print("nom:",nom)
 print("prenom:",prenom)
+print("hello les TI11")
+print("hello sarra")
+
+
 
 
 
